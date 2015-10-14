@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-14T13:58:22.644Z'
-dateModified: '2015-10-14T13:58:18.886Z'
+datePublished: '2015-10-14T14:04:10.652Z'
+dateModified: '2015-10-14T14:04:06.841Z'
 title: |-
   Olá, somos o Luís e a Cláudia, casados e felizes,
   adoramos festas e de estar no meio de pessoas bem dispostas!
@@ -20,7 +19,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: ola-somos-o-luis-e-a-claudia-casados-e-felizes-adoramos-f/index.html
+_type: Article
 
 ---
 # Olá, somos o Luís e a Cláudia, casados e felizes,
