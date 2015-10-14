@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-14T13:41:58.079Z'
-dateModified: '2015-10-14T13:41:45.758Z'
-title: 'Festa de Casamento An & Gonçalo'
+datePublished: '2015-10-14T13:44:41.032Z'
+dateModified: '2015-10-14T13:44:32.606Z'
+title: 'Festa de Casamento Ana & Gonçalo'
 sourcePath: _posts/2015-10-14-festa-de-casamento-an-and-goncalo.md
 published: true
 authors: []
@@ -17,11 +18,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: festa-de-casamento-an-and-goncalo/index.html
-_type: Article
+_type: Blurb
 
 ---
-# Festa de Casamento An & Gonçalo
+# Festa de Casamento Ana & Gonçalo
 
 A Ana e o Gonçalo casaram em dezembro de 2014, numa festa íntima, apenas para a família, mas isso já vocês sabem!... A novidade agora é que este casal amoroso, resolveu fazer uma festa de casamento para os amigos e restante família! Tudo aconteceu num veleiro que navegou pelo rio Tejo, com Lisboa de fundo vestida de muito sol numa tarde fantástica de setembro... Foi mágico! Uma vez mais, nós tivemos o prazer de acompanhar tudo, testemunhar o amor em mais uma festa!! Venham mais que é o que nós gostamos! :)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5fd32e1-460d-404e-ae61-e463650696db.jpg)
