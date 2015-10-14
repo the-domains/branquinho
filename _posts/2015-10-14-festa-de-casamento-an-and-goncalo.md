@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-14T12:05:57.261Z'
-dateModified: '2015-10-14T11:59:18.840Z'
+datePublished: '2015-10-14T13:41:58.079Z'
+dateModified: '2015-10-14T13:41:45.758Z'
 title: 'Festa de Casamento An & Gonçalo'
+sourcePath: _posts/2015-10-14-festa-de-casamento-an-and-goncalo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-14-festa-de-casamento-an-and-goncalo.md
-published: true
 url: festa-de-casamento-an-and-goncalo/index.html
 _type: Article
 
