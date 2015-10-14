@@ -6,19 +6,19 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-14T11:44:53.503Z'
-dateModified: '2015-10-14T11:44:45.753Z'
+datePublished: '2015-10-14T11:45:57.085Z'
+dateModified: '2015-10-14T11:45:53.149Z'
 title: |-
   Olá, somos o Luís e a Cláudia, casados e felizes,
   adoramos festas e de estar no meio de pessoas bem dispostas!
+sourcePath: _posts/2015-10-14-ola-somos-o-luis-e-a-claudia-casados-e-felizes-adoramos-f.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-14-ola-somos-o-luis-e-a-claudia-casados-e-felizes-adoramos-f.md
-published: true
 url: ola-somos-o-luis-e-a-claudia-casados-e-felizes-adoramos-f/index.html
 _type: Blurb
 
