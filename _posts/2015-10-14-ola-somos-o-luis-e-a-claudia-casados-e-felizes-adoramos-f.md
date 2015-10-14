@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-14T11:45:57.085Z'
-dateModified: '2015-10-14T11:45:53.149Z'
+datePublished: '2015-10-14T12:05:57.388Z'
+dateModified: '2015-10-14T11:45:57.085Z'
 title: |-
   Olá, somos o Luís e a Cláudia, casados e felizes,
   adoramos festas e de estar no meio de pessoas bem dispostas!
