@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[BRANQUINHO]]></title>
-        <description><![CDATA[BRANQUINHO]]></description>
+        <title><![CDATA[BRANQUINHO - Fine art happiness photographers]]></title>
+        <description><![CDATA[BRANQUINHO - Fine art happiness photographers]]></description>
         <link>https://thegrid.ai/branquinho/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 10:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 11:15:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/branquinho/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sobre nós..]]></title>
@@ -13,6 +13,22 @@
             <link>https://thegrid.ai/branquinho/sobre-nos/index.html</link>
             <guid isPermaLink="false">8ccab3ae-8bd1-4c9c-a929-2dcd27f9c346</guid>
             <pubDate>Wed, 14 Oct 2015 10:46:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contatos]]></title>
+            <description><![CDATA[<article><h1>Contatos</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d0555fe-e720-41ce-af4b-92b2b62f2503.jpg"></article>]]></description>
+            <link>https://thegrid.ai/branquinho/contatos/index.html</link>
+            <guid isPermaLink="false">737b4194-11b6-4777-ba7a-ae5876e63efa</guid>
+            <pubDate>Wed, 14 Oct 2015 11:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olá , somos o Luís e a Cláudia, casados e felizes,
+adoramos festas e de estar no meio de pessoas bem dispostas!]]></title>
+            <description><![CDATA[<article><h1>Olá , somos o Luís e a Cláudia, casados e felizes,
+adoramos festas e de estar no meio de pessoas bem dispostas!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/499669a0-42bf-4227-b903-cf803cf8d644.png"></article>]]></description>
+            <link>https://thegrid.ai/branquinho/ola-somos-o-luis-e-a-claudia-casados-e-felizes-adoramos/index.html</link>
+            <guid isPermaLink="false">e0d56c7b-db94-44e2-ac9a-3542d85f8ee0</guid>
+            <pubDate>Wed, 14 Oct 2015 11:14:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sobre Nós...]]></title>
