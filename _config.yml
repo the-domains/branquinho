@@ -1,7 +1,6 @@
 name: BRANQUINHO
 favicon: null
 layout_spectrum: 0.50096
-typography_spectrum: 0
 title: BRANQUINHO - Fine art happiness photographers
 cta:
   domain: null
@@ -28,5 +27,5 @@ color:
   rhythmicContrast: 1
 purpose:
   - name: shares
-    item: null
+    item: 8ccab3ae-8bd1-4c9c-a929-2dcd27f9c346
     url: null
