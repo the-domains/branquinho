@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-14T11:37:24.154Z'
-dateModified: '2015-10-14T11:37:01.292Z'
+datePublished: '2015-10-14T11:44:53.503Z'
+dateModified: '2015-10-14T11:44:45.753Z'
 title: |-
   Olá, somos o Luís e a Cláudia, casados e felizes,
   adoramos festas e de estar no meio de pessoas bem dispostas!
