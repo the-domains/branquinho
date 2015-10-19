@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-14T13:44:41.032Z'
-dateModified: '2015-10-14T13:44:32.606Z'
+datePublished: '2015-10-19T13:37:25.516Z'
+dateModified: '2015-10-19T13:37:11.866Z'
 title: 'Festa de Casamento Ana & Gonçalo'
 sourcePath: _posts/2015-10-14-festa-de-casamento-an-and-goncalo.md
 published: true
